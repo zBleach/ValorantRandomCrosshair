@@ -1,0 +1,10 @@
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\bin\Debug\ValorantRandomCrosshairForm.exe.config
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\bin\Debug\ValorantRandomCrosshairForm.exe
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\bin\Debug\ValorantRandomCrosshairForm.pdb
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\obj\Debug\ValorantRandomCrosshairForm.csprojAssemblyReference.cache
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\obj\Debug\ValorantRandomCrosshairForm.Form1.resources
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\obj\Debug\ValorantRandomCrosshairForm.Properties.Resources.resources
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\obj\Debug\ValorantRandomCrosshairForm.csproj.GenerateResource.cache
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\obj\Debug\ValorantRandomCrosshairForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\obj\Debug\ValorantRandomCrosshairForm.exe
+C:\Users\user\Masaüstü\C# Proje\ValorantRandomCrosshairForm\ValorantRandomCrosshairForm\obj\Debug\ValorantRandomCrosshairForm.pdb
